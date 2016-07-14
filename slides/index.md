@@ -1,10 +1,5 @@
 
-# Reveal.js and Yeoman is Awesomeness
+# 如何使用抓包工具
 
-From the terminal, pop in:
+by: 李勇 Mofe Lee < mofe@me.com >
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```

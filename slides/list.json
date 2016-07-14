@@ -1,1 +1,11 @@
-["index.md"]
+[
+    "index.md",
+    "whats-the-next.md",
+    "http.md",
+    "http-request.md",
+    "http-response.md",
+    "what-is-fiddler.md",
+    "fiddler-feature-in-a-nutshell.md",
+    "what-is-http.md",
+    "refs.md"
+]
