@@ -4,8 +4,14 @@
     "http.md",
     "http-request.md",
     "http-response.md",
+    "http-session.md",
     "what-is-fiddler.md",
+    "alternatives-and-similar-tools.md",
+    "alternatives-compare.md",
+    "alternatives-compare2.md",
     "fiddler-feature-in-a-nutshell.md",
+    "fiddler-main-view.md",
+    "http-traffic.md",
     "what-is-http.md",
     "refs.md"
 ]
