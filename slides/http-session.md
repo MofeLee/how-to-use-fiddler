@@ -9,5 +9,3 @@
 7. 服务器响应并创建 HTTP 响应
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

@@ -17,3 +17,11 @@ Server: Apache
 <meta http-equiv="refresh" content="0;url=http://www.baidu.com/">
 </html>
 ```
+
+note:
+
+这是一个百度给我返回的响应信息
+
+我稍微解释下里面的每个字段的作用
+
+【DEMO】
