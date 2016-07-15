@@ -1,6 +1,6 @@
 ##  sessions
 
-![http traffic](/resources/img/fiddler-sessions.png)
+![http traffic](resources/img/fiddler-sessions.png)
 
 note:
     Put your speaker notes here.
