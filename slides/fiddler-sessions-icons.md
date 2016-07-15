@@ -1,6 +1,6 @@
 ##  Session s Icons
 
-![icons](/img/web-sessions-icons.png)
+![icons](/resources/img/web-sessions-icons.png)
 
 note:
     Put your speaker notes here.
