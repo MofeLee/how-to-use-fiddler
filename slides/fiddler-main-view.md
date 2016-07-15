@@ -1,6 +1,6 @@
 ##  fiddler 主视图
 
-![main view](/img/fiddler-main-view.png)
+![main view](/resources/img/fiddler-main-view.png)
 
 note:
     Put your speaker notes here.

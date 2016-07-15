@@ -2,7 +2,7 @@
 
 * 免费的 web debug 工具
 
-![fiddler](/img/fiddler_flow.png)
+![fiddler](/resources/img/fiddler_flow.png)
 
 note:
 
